@@ -1,0 +1,61 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your mark.
+The rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Please enter your mark59.99
+Your mark is  59.99 ,and your grade is  F
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your mark.
+The rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Please enter your mark60
+Your mark is  60.0 ,and your grade is  D
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your mark.
+The rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Please enter your mark70.214
+Your mark is  70.214 ,and your grade is  C
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your mark.
+The rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Please enter your mark94.6
+Your mark is  94.6 ,and your grade is  A
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your mark.
+The rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Please enter your mark89.99
+Your mark is  89.99 ,and your grade is  B
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your mark.
+The rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Please enter your mark1111
+Your mark is  1111.0 ,and your grade is  A
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your mark.
+The rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Please enter your markjin
+Traceback (most recent call last):
+  File "E:/Skydrive/College course/CS110/Mou_Keni_A52_Assignment4/gradeChecker.py", line 71, in <module>
+    main()
+  File "E:/Skydrive/College course/CS110/Mou_Keni_A52_Assignment4/gradeChecker.py", line 64, in main
+    mark = float(markStr)
+ValueError: could not convert string to float: 'jin'
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your mark.
+The rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Please enter your mark5l6
+Traceback (most recent call last):
+  File "E:/Skydrive/College course/CS110/Mou_Keni_A52_Assignment4/gradeChecker.py", line 71, in <module>
+    main()
+  File "E:/Skydrive/College course/CS110/Mou_Keni_A52_Assignment4/gradeChecker.py", line 64, in main
+    mark = float(markStr)
+ValueError: could not convert string to float: '5l6'
+>>> 

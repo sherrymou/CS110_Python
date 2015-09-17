@@ -1,0 +1,33 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.6
+There are 9.0 diagonals
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.3
+There are 0.0 diagonals
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.9000
+There are 40486500.0 diagonals
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.hello world
+Traceback (most recent call last):
+  File "E:/Google Drive/CS110/Mou_Keni_A52_Assignment2/Diagnals of polygon.py", line 23, in <module>
+    main()
+  File "E:/Google Drive/CS110/Mou_Keni_A52_Assignment2/Diagnals of polygon.py", line 15, in main
+    sidesInt=int(numberOfSides)
+ValueError: invalid literal for int() with base 10: 'hello world'
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.2365.653
+Traceback (most recent call last):
+  File "E:/Google Drive/CS110/Mou_Keni_A52_Assignment2/Diagnals of polygon.py", line 23, in <module>
+    main()
+  File "E:/Google Drive/CS110/Mou_Keni_A52_Assignment2/Diagnals of polygon.py", line 15, in main
+    sidesInt=int(numberOfSides)
+ValueError: invalid literal for int() with base 10: '2365.653'
+>>> 

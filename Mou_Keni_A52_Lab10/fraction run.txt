@@ -1,0 +1,7 @@
+>>> ================================ RESTART ================================
+>>> 
+Test getNum 1
+Test getDen 2
+Test add 1/1
+Test simplify and str 1/2
+>>> 

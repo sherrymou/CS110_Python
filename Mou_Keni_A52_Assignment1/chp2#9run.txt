@@ -1,0 +1,22 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Write down the width of your rectangle5
+Write down the hight of your rectangle6
+The area of your rectangle is 30
+>>> ================================ RESTART ================================
+>>> 
+Write down the width of your rectangle5
+Write down the hight of your rectangle5
+The area of your rectangle is 25
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+Write down the width of your rectangle356258
+Write down the hight of your rectangle562145
+The area of your rectangle is 200268653410
+>>> 
+
+------
+I put some values and the results are all same as what I calculated by the calculator. 

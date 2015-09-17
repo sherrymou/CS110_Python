@@ -1,0 +1,100 @@
+Python 3.3.0 (v3.3.0:bd8afb90ebf2, Sep 29 2012, 10:57:17) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?10
+This is a program that simulates throwing darts at a dartboard
+in order to approximate pi: The ratio of darts in a unit circle
+to the total number of darts in a 2X2 square should be
+approximately  equal to pi/4
+The approximate value of pi is 3.6
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?5000
+This is a program that simulates throwing darts at a dartboard
+in order to approximate pi: The ratio of darts in a unit circle
+to the total number of darts in a 2X2 square should be
+approximately  equal to pi/4
+The approximate value of pi is 3.1576
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?50000
+This is a program that simulates throwing darts at a dartboard
+in order to approximate pi: The ratio of darts in a unit circle
+to the total number of darts in a 2X2 square should be
+approximately  equal to pi/4
+
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?5000
+This is a program that simulates throwing darts at a dartboard
+in order to approximate pi: The ratio of darts in a unit circle
+to the total number of darts in a 2X2 square should be
+approximately  equal to pi/4
+The approximate value of pi is 3.1336
+
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?5000
+This is a program that simulates throwing darts at a dartboard
+in order to approximate pi: The ratio of darts in a unit circle
+to the total number of darts in a 2X2 square should be
+approximately  equal to pi/4
+The approximate value of pi is 3.152
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?10000
+This is a program that simulates throwing darts at a dartboard
+in order to approximate pi: The ratio of darts in a unit circle
+to the total number of darts in a 2X2 square should be
+approximately  equal to pi/4
+The approximate value of pi is 3.1416
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?10000
+This is a program that simulates throwing darts at a dartboard
+in order to approximate pi: The ratio of darts in a unit circle
+to the total number of darts in a 2X2 square should be
+approximately  equal to pi/4
+The approximate value of pi is 3.156
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?0
+This is a program that simulates throwing darts at a dartboard
+in order to approximate pi: The ratio of darts in a unit circle
+to the total number of darts in a 2X2 square should be
+approximately  equal to pi/4
+Traceback (most recent call last):
+  File "C:\Users\kmou1\Downloads\lab4.py", line 140, in <module>
+    main()
+  File "C:\Users\kmou1\Downloads\lab4.py", line 134, in main
+    pi=montePi(numberDarts,fred)
+  File "C:\Users\kmou1\Downloads\lab4.py", line 109, in montePi
+    pi=insideCount/numberDarts*radio
+ZeroDivisionError: division by zero
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?42.5
+Traceback (most recent call last):
+  File "C:\Users\kmou1\Downloads\lab4.py", line 140, in <module>
+    main()
+  File "C:\Users\kmou1\Downloads\lab4.py", line 117, in main
+    numberDarts=int(numberDartsStr)#change formate
+ValueError: invalid literal for int() with base 10: '42.5'
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?df
+Traceback (most recent call last):
+  File "C:\Users\kmou1\Downloads\lab4.py", line 140, in <module>
+    main()
+  File "C:\Users\kmou1\Downloads\lab4.py", line 117, in main
+    numberDarts=int(numberDartsStr)#change formate
+ValueError: invalid literal for int() with base 10: 'df'
+>>> ================================ RESTART ================================
+>>> 
+How many darts in the board?10
+This is a program that simulates throwing darts at a dartboard
+in order to approximate pi: The ratio of darts in a unit circle
+to the total number of darts in a 2X2 square should be
+approximately  equal to pi/4
+The approximate value of pi is 2.8

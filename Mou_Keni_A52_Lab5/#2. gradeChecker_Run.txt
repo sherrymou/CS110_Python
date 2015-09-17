@@ -1,0 +1,62 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your markThe rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Enter your grade or press Enter to quit99
+The grade of  99.0 is A
+Enter another value or press ENTER to quit88
+The grade of  88.0 is B
+Enter another value or press ENTER to quit89
+The grade of  89.0 is B
+Enter another value or press ENTER to quit79
+The grade of  79.0 is C
+Enter another value or press ENTER to quit79.999
+The grade of  79.999 is C
+Enter another value or press ENTER to quit79.9999
+The grade of  79.9999 is C
+Enter another value or press ENTER to quit69
+The grade of  69.0 is D
+Enter another value or press ENTER to quit59
+The grade of  59.0 is F
+Enter another value or press ENTER to quit60
+The grade of  60.0 is D
+Enter another value or press ENTER to quit70.1
+The grade of  70.1 is C
+Enter another value or press ENTER to quit75
+The grade of  75.0 is C
+Enter another value or press ENTER to quit80
+The grade of  80.0 is B
+Enter another value or press ENTER to quit90
+The grade of  90.0 is A
+Enter another value or press ENTER to quit100
+The grade of  100.0 is A
+Enter another value or press ENTER to quit111
+The grade of  111.0 is A
+Enter another value or press ENTER to quithjh'
+Traceback (most recent call last):
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Lab5\#2. gradeChecker.py", line 62, in <module>
+    main()
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Lab5\#2. gradeChecker.py", line 57, in main
+    myInput=float(myInputStr)
+ValueError: could not convert string to float: "hjh'"
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your markThe rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Enter your grade or press Enter to quit45
+The grade of  45.0 is F
+Enter another value or press ENTER to quit
+You end the program
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your markThe rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Enter your grade or press Enter to quit
+You end the program
+>>> ================================ RESTART ================================
+>>> 
+This program is to check your grade from your markThe rule is: A(>=90), B(>=80), C(>=70), D(>=60),F(<60)
+Enter your grade or press Enter to quit0
+The grade of  0.0 is F
+Enter another value or press ENTER to quit
+You end the program
+>>> 

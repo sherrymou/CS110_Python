@@ -1,0 +1,37 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom?5
+There will be 10.0 hand shankes
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom?1
+There will be 0.0 hand shankes
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom?2
+There will be 1.0 hand shankes
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom?two
+Traceback (most recent call last):
+  File "E:/Google Drive/CS110/Mou_Keni_A52_Assignment2/HandShake.py", line 14, in <module>
+    main()
+  File "E:/Google Drive/CS110/Mou_Keni_A52_Assignment2/HandShake.py", line 6, in main
+    peopleInt=int(people)
+ValueError: invalid literal for int() with base 10: 'two'
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom?2.5
+Traceback (most recent call last):
+  File "E:/Google Drive/CS110/Mou_Keni_A52_Assignment2/HandShake.py", line 14, in <module>
+    main()
+  File "E:/Google Drive/CS110/Mou_Keni_A52_Assignment2/HandShake.py", line 6, in main
+    peopleInt=int(people)
+ValueError: invalid literal for int() with base 10: '2.5'
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom?500
+There will be 124750.0 hand shankes
+>>> 

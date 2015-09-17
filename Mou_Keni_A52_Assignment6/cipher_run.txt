@@ -1,0 +1,83 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+This program encrypts or decrypts messages using a Caesar cipher
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quite
+Please enter the rotation Key1
+Please input your messageasbdfg
+Your prosecced message is 
+ btcegh 
+
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quite
+Please enter the rotation Key+653
+Please input your messagemkjh
+Your prosecced message is 
+ a_^\ 
+
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quit
+You ended this program
+>>> ================================ RESTART ================================
+>>> 
+This program encrypts or decrypts messages using a Caesar cipher
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quite
+Please enter the rotation Key1223456
+Please input your messagezxcvbnm,
+Your prosecced message is 
+ IG2E1=<Z 
+
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quitd
+Please enter the rotation Key1223456
+Please input your messagezxcvbnm
+Your prosecced message is 
+ LJ5H4@? 
+
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quite
+Please enter the rotation Key-1223456
+Please input your messageIG2E1=<Z 
+Your prosecced message is 
+ zxcvbnm,Q 
+
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quit-5423
+Invalid input! Please enter either 'e' or 'd'5
+Invalid input! Please enter either 'e' or 'd'h
+Invalid input! Please enter either 'e' or 'd'e
+Please enter the rotation Keymnb
+Invalid input! Please try agian.98o
+Invalid input! Please try agian.54
+Please input your messagegkjhghggfdgfdghfkjh
+Your prosecced message is 
+ >BA?>?>>=;>=;>?=BA? 
+
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quit
+You ended this program
+>>> ================================ RESTART ================================
+>>> 
+This program encrypts or decrypts messages using a Caesar cipher
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quite
+Please enter the rotation Key1
+Please input your messageapple
+Your prosecced message is 
+ bqqmf 
+
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quitd
+Please enter the rotation Keyqud
+Invalid input! Please try agian.34
+Please input your messagequd
+Your prosecced message is 
+ OSB 
+
+Please enter either 'e' to encrypt or 'd' to decrypt 
+or press ENTER to quit
+You ended this program
+>>> 

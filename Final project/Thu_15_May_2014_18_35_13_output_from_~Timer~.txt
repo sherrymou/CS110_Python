@@ -1,0 +1,32 @@
+       ,----,
+   ___.`      `,
+   `===  D     :
+     `'.      .'
+        )    (                   ,
+       /      \_________________/|
+      /                          |
+     |                           ;
+     |               _____       /
+     |      \       ______7    ,'
+     |       \    ______7     /
+      \       `-,____7      ,'      
+^~^~^~^`\                  /~^~^~^~^
+  ~^~^~^ `----------------' ~^~^~^
+~^~^~^~^~^^~^~^~^~^~^~^~^~^~^~^~
+
+////////////////////////////////////
+This is a timer program.
+You can set a time between 00:01 to 10:59djlkjflskjflksjd
+Authors:
+Binghamton University
+
+Keni Mou
+(kmou1@binghamton.edu)
+Kristy Steven
+(kstevens4@binghamton.edu)
+
+Spring 2014
+CS110
+Final Project
+
+

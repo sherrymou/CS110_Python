@@ -1,0 +1,15 @@
+>>> ================================ RESTART ================================
+>>> 
+Test get x and y 2 3
+Test computeDistanceFromOrigin 3.605551275463989
+Test computeDistanceFromPoint 4.242640687119285
+Test createXReflection 
+(x:2, y:-3)
+Test computeSlopeFromOrigin 1.5
+Test computeSlopeFromPoint 1.0
+Test computeYIntercept 1.0
+Test getLineTo (1.0, 1.0)
+Test move and str
+
+(x:6, y:8)
+>>> 

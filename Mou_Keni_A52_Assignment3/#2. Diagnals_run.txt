@@ -1,0 +1,58 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.56
+There will be 1484.0 diagonals
+There will be 1484 diagonals
+There will be 1484 diagonals
+True
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.4569
+There will be 10431027.0 diagonals
+There will be 10431027 diagonals
+There will be 10431027 diagonals
+True
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.llll
+Traceback (most recent call last):
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#2. Diagnals of polygon.py", line 91, in <module>
+    main()
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#2. Diagnals of polygon.py", line 75, in main
+    sidesInt=int(sides)
+ValueError: invalid literal for int() with base 10: 'llll'
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.woth34
+Traceback (most recent call last):
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#2. Diagnals of polygon.py", line 91, in <module>
+    main()
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#2. Diagnals of polygon.py", line 75, in main
+    sidesInt=int(sides)
+ValueError: invalid literal for int() with base 10: 'woth34'
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.123456
+There will be 7620506784.0 diagonals
+There will be 7620506784 diagonals
+There will be 7620506784 diagonals
+True
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.2
+There will be -1.0 diagonals
+There will be -1 diagonals
+There will be -1 diagonals
+True
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.k56
+Traceback (most recent call last):
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#2. Diagnals of polygon.py", line 91, in <module>
+    main()
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#2. Diagnals of polygon.py", line 75, in main
+    sidesInt=int(sides)
+ValueError: invalid literal for int() with base 10: 'k56'
+>>> 

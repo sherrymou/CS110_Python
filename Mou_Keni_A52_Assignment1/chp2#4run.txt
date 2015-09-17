@@ -1,0 +1,21 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+What day is it today? (0 is Sunday and 6 is Saturday)1
+ How many days you want to stay?5
+6
+>>> ================================ RESTART ================================
+>>> 
+What day is it today? (0 is Sunday and 6 is Saturday)5
+ How many days you want to stay?2
+0
+>>> ================================ RESTART ================================
+>>> 
+What day is it today? (0 is Sunday and 6 is Saturday)6
+ How many days you want to stay?9
+1
+>>> 
+
+------
+I tried the day within 7 days, exactly 7 days and more than 7 days, they all worked correctly. 

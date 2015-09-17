@@ -1,0 +1,38 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!56
+There will be 1540.0 hand shakes
+There will be 1540 hand shakes
+True
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!df
+Traceback (most recent call last):
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#3. Summation_handshake.py", line 46, in <module>
+    main()
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#3. Summation_handshake.py", line 32, in main
+    peopleInt=int(people)
+ValueError: invalid literal for int() with base 10: 'df'
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!lldkf
+Traceback (most recent call last):
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#3. Summation_handshake.py", line 46, in <module>
+    main()
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#3. Summation_handshake.py", line 32, in main
+    peopleInt=int(people)
+ValueError: invalid literal for int() with base 10: 'lldkf'
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!3
+There will be 3.0 hand shakes
+There will be 3 hand shakes
+True
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!1
+There will be 0.0 hand shakes
+There will be 0 hand shakes
+True

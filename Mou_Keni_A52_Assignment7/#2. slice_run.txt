@@ -1,0 +1,117 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter the first element in your list 
+OR press <Enter> to quit: a
+Enter the next element in your list 
+OR press <Enter> to finish:  b
+Enter the next element in your list 
+OR press <Enter> to finish:  c
+Enter the next element in your list 
+OR press <Enter> to finish:  d
+Enter the next element in your list 
+OR press <Enter> to finish:  e
+Enter the next element in your list 
+OR press <Enter> to finish:  f
+Enter the next element in your list 
+OR press <Enter> to finish:  g
+Enter the next element in your list 
+OR press <Enter> to finish:  
+Your list is: ['a', 'b', 'c', 'd', 'e', 'f', 'g'] 
+
+Enter the starting index for the slice 
+OR press <Enter> to make a new list0
+Enter the limit index for the slice: 7
+['a', 'b', 'c', 'd', 'e', 'f', 'g']
+['a', 'b', 'c', 'd', 'e', 'f', 'g']
+Success: slices are equal 
+
+Enter the starting index for another slice 
+OR press <Enter> to make a new list1
+Enter the limit index for the slice: 5
+['b', 'c', 'd', 'e']
+['b', 'c', 'd', 'e']
+Success: slices are equal 
+
+Enter the starting index for another slice 
+OR press <Enter> to make a new list2
+Enter the limit index for the slice: 2
+One or both of your indices were invalid 
+
+Enter the starting index for the slice 
+OR press <Enter> to make a new lista
+Enter the limit index for the slice: b
+One or both of your indices were invalid 
+
+Enter the starting index for the slice 
+OR press <Enter> to make a new list3
+Enter the limit index for the slice: 6
+['d', 'e', 'f']
+['d', 'e', 'f']
+Success: slices are equal 
+
+Enter the starting index for another slice 
+OR press <Enter> to make a new list7
+Enter the limit index for the slice: 7
+One or both of your indices were invalid 
+
+Enter the starting index for the slice 
+OR press <Enter> to make a new list6
+Enter the limit index for the slice: 8
+One or both of your indices were invalid 
+
+Enter the starting index for the slice 
+OR press <Enter> to make a new list5
+Enter the limit index for the slice: 2
+One or both of your indices were invalid 
+
+Enter the starting index for the slice 
+OR press <Enter> to make a new list2
+Enter the limit index for the slice: 5
+['c', 'd', 'e']
+['c', 'd', 'e']
+Success: slices are equal 
+
+Enter the starting index for another slice 
+OR press <Enter> to make a new list2
+Enter the limit index for the slice: 3
+['c']
+['c']
+Success: slices are equal 
+
+Enter the starting index for another slice 
+OR press <Enter> to make a new list
+
+Enter the first element in your list 
+OR press <Enter> to quit: Hello
+Enter the next element in your list 
+OR press <Enter> to finish:  World
+Enter the next element in your list 
+OR press <Enter> to finish:  Hello
+Enter the next element in your list 
+OR press <Enter> to finish:  Python
+Enter the next element in your list 
+OR press <Enter> to finish:  
+Your list is: ['Hello', 'World', 'Hello', 'Python'] 
+
+Enter the starting index for the slice 
+OR press <Enter> to make a new list0
+Enter the limit index for the slice: 2
+['Hello', 'World']
+['Hello', 'World']
+Success: slices are equal 
+
+Enter the starting index for another slice 
+OR press <Enter> to make a new list2
+Enter the limit index for the slice: 4
+['Hello', 'Python']
+['Hello', 'Python']
+Success: slices are equal 
+
+Enter the starting index for another slice 
+OR press <Enter> to make a new list
+
+Enter the first element in your list 
+OR press <Enter> to quit: 
+>>> 

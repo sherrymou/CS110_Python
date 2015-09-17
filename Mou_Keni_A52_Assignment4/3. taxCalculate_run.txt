@@ -1,0 +1,87 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+This program is to calculate the income tax based on the rule
+Please input your marry statue.
+input 0 for married and 1 for single.
+(if you enter other interger rather than 1 or 0,
+You will be processed as single.)5
+please input your total income.46513
+----------------------------------------------------
+You are single
+Your income is  46513.0 ,and your tax is  8028.25
+>>> ================================ RESTART ================================
+>>> 
+This program is to calculate the income tax based on the rule
+Please input your marry statue.
+input 0 for married and 1 for single.
+(if you enter other interger rather than 1 or 0,
+You will be processed as single.)5
+please input your total income.121654
+----------------------------------------------------
+You are single
+Your income is $ 121654.0 ,and your tax is гд 26813.5
+>>> ================================ RESTART ================================
+>>> 
+This program is to calculate the income tax based on the rule
+Please input your marry statue.
+input 0 for married and 1 for single.
+(if you enter other interger rather than 1 or 0,
+You will be processed as single.)1
+please input your total income.56512
+----------------------------------------------------
+You are single
+Your income is $ 56512.0 ,and your tax is $ 10528.0
+>>> ================================ RESTART ================================
+>>> 
+This program is to calculate the income tax based on the rule
+Please input your marry statue.
+input 0 for married and 1 for single.
+(if you enter other interger rather than 1 or 0,
+You will be processed as single.)married
+Traceback (most recent call last):
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Assignment4\3. taxCalculate.py", line 122, in <module>
+    main()
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Assignment4\3. taxCalculate.py", line 102, in main
+    statue= int(statueStr)
+ValueError: invalid literal for int() with base 10: 'married'
+>>> ================================ RESTART ================================
+>>> 
+This program is to calculate the income tax based on the rule
+Please input your marry statue.
+input 0 for married and 1 for single.
+(if you enter other interger rather than 1 or 0,
+You will be processed as single.)1.2
+Traceback (most recent call last):
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Assignment4\3. taxCalculate.py", line 122, in <module>
+    main()
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Assignment4\3. taxCalculate.py", line 102, in main
+    statue= int(statueStr)
+ValueError: invalid literal for int() with base 10: '1.2'
+>>> ================================ RESTART ================================
+>>> 
+This program is to calculate the income tax based on the rule
+Please input your marry statue.
+input 0 for married and 1 for single.
+(if you enter other interger rather than 1 or 0,
+You will be processed as single.)1
+please input your total income.dld
+Traceback (most recent call last):
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Assignment4\3. taxCalculate.py", line 122, in <module>
+    main()
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Assignment4\3. taxCalculate.py", line 105, in main
+    income=float(incomeStr)
+ValueError: could not convert string to float: 'dld'
+>>> ================================ RESTART ================================
+>>> 
+This program is to calculate the income tax based on the rule
+Please input your marry statue.
+input 0 for married and 1 for single.
+(if you enter other interger rather than 1 or 0,
+You will be processed as single.)654
+please input your total income.13465
+----------------------------------------------------
+You are single
+Your income is $ 13465.0 ,and your tax is $ 1619.75
+>>> 

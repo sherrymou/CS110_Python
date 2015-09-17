@@ -1,0 +1,15 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Write down your circle's radius ^_^ 5
+Your circle's area is 78.53975
+>>> ================================ RESTART ================================
+>>> 
+Write down your circle's radius ^_^ 1
+Your circle's area is 3.14159
+>>> ================================ RESTART ================================
+>>> 
+Write down your circle's radius ^_^ 1234
+Your circle's area is 4783875.02204
+>>> 

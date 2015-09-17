@@ -1,0 +1,49 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.6
+There will be 9.0 diagonals
+There will be 9 diagonals
+There will be 9 diagonals
+True
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.465
+There will be 107415.0 diagonals
+There will be 107415 diagonals
+There will be 107415 diagonals
+True
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.jjj
+Traceback (most recent call last):
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#2.test.py", line 62, in <module>
+    main()
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#2.test.py", line 46, in main
+    sidesInt=int(sides)
+ValueError: invalid literal for int() with base 10: 'jjj'
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.0
+There will be 0.0 diagonals
+There will be 0 diagonals
+There will be 0 diagonals
+True
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.l2
+Traceback (most recent call last):
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#2.test.py", line 62, in <module>
+    main()
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#2.test.py", line 46, in main
+    sidesInt=int(sides)
+ValueError: invalid literal for int() with base 10: 'l2'
+>>> ================================ RESTART ================================
+>>> 
+How many sides are there in the polygon? Please input a integer number greater than 3.45
+There will be 945.0 diagonals
+There will be 945 diagonals
+There will be 945 diagonals
+True
+>>> 

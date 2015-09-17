@@ -1,0 +1,48 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+This program encrypts or decrypts entire files at a time using a Caesar cipher
+Please input your fileName, or press ENTER to quit.file
+That file name does not appear to be valid, please try again .txt
+That file name does not appear to be valid, please try againCaptainMidnight.txt
+Please enter either 'e' to encrypt or 'd' to decrypt2
+That operation does not appear to be valid, please try againe
+Please enter the rotation Keycat
+Invalid input! Please try agian.1
+Please input your fileName, or press ENTER to quit.CaptainMidnightEncrypted1.txt
+Please enter either 'e' to encrypt or 'd' to decryptd
+Please enter the rotation Key1
+Please input your fileName, or press ENTER to quit.CaptainMidnight.txt
+Please enter either 'e' to encrypt or 'd' to decrypte
+Please enter the rotation Key-1
+Please input your fileName, or press ENTER to quit.CaptainMidnightEncrypted-1.txt
+Please enter either 'e' to encrypt or 'd' to decryptd
+Please enter the rotation Key-1
+Please input your fileName, or press ENTER to quit.CaptainMidnight.txt
+Please enter either 'e' to encrypt or 'd' to decrypte
+Please enter the rotation Key127
+Please input your fileName, or press ENTER to quit.CaptainMidnightEncrypted127.txt
+Please enter either 'e' to encrypt or 'd' to decryptd
+Please enter the rotation Key27
+Please input your fileName, or press ENTER to quit.CaptainMidnight.txt
+Please enter either 'e' to encrypt or 'd' to decrypte
+Please enter the rotation Key-127
+Please input your fileName, or press ENTER to quit.CaptainMidnightEncrypted-127.txt
+Please enter either 'e' to encrypt or 'd' to decryptd
+Please enter the rotation Key-127
+Please input your fileName, or press ENTER to quit.CaptainMidnight.txt
+Please enter either 'e' to encrypt or 'd' to decrypte
+Please enter the rotation Key570
+Please input your fileName, or press ENTER to quit.CaptainMidnightEncrypted570.txt
+Please enter either 'e' to encrypt or 'd' to decryptd
+Please enter the rotation Key570
+Please input your fileName, or press ENTER to quit.CaptainMidnight.txt
+Please enter either 'e' to encrypt or 'd' to decrypte
+Please enter the rotation Key-570
+Please input your fileName, or press ENTER to quit.CaptainMidnightEncrypted-570.txt
+Please enter either 'e' to encrypt or 'd' to decryptd
+Please enter the rotation Key-570
+Please input your fileName, or press ENTER to quit.
+You ended this program
+>>> 

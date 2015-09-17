@@ -1,0 +1,21 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+ What's the current time? 2
+ Number of ours to wait? 5
+7
+>>> ================================ RESTART ================================
+>>> 
+ What's the current time? 16
+ Number of ours to wait? 65
+9
+>>> ================================ RESTART ================================
+>>> 
+ What's the current time? 16
+ Number of ours to wait? 8
+0
+>>> 
+
+----------------
+I tried the time within 24 hours, more than 24 hours and exactly 24 hours. And they all worked rightly. 

@@ -1,0 +1,74 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+This program is to calculate the income tax based on the rule
+-=START=-
+Please input your marry statue or press ENTER to quit
+input m for married or s for single.m
+please input your total income.4521.32
+-=RESULT=-
+You are married
+Your income is $ $4521.32 ,and your tax is $452.13
+--=END=--
+
+-=START=-
+Please input your marry statue(s for single or m for married)
+Or press ENTER to quits
+please input your total income.651321
+-=RESULT=-
+You are single
+Your income is $ $651321.00 ,and your tax is $159230.25
+--=END=--
+
+-=START=-
+Please input your marry statue(s for single or m for married)
+Or press ENTER to quit
+You end this program
+>>> ================================ RESTART ================================
+>>> 
+This program is to calculate the income tax based on the rule
+-=START=-
+Please input your marry statue or press ENTER to quit
+input m for married or s for single.7987
+Your input is invalid. Please input your marry statue.
+input m for married or s for single.jhghj
+Your input is invalid. Please input your marry statue.
+input m for married or s for single.k
+Your input is invalid. Please input your marry statue.
+input m for married or s for single.m
+please input your total income.68795
+-=RESULT=-
+You are married
+Your income is $ $68795.00 ,and your tax is $9998.75
+--=END=--
+
+-=START=-
+Please input your marry statue(s for single or m for married)
+Or press ENTER to quits
+please input your total income.hfgh
+Traceback (most recent call last):
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Assignment5\#1. taxCalculate .py", line 149, in <module>
+    main()
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Assignment5\#1. taxCalculate .py", line 117, in main
+    income=float(incomeStr)
+ValueError: could not convert string to float: 'hfgh'
+>>> ================================ RESTART ================================
+>>> 
+This program is to calculate the income tax based on the rule
+-=START=-
+Please input your marry statue or press ENTER to quit
+input m for married or s for single.===
+Your input is invalid. Please input your marry statue.
+input m for married or s for single.m
+please input your total income.36558
+-=RESULT=-
+You are married
+Your income is $ $36558.00 ,and your tax is $4683.70
+--=END=--
+
+-=START=-
+Please input your marry statue(s for single or m for married)
+Or press ENTER to quit
+You end this program
+>>> 

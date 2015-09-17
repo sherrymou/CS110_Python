@@ -1,0 +1,35 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+rectangle: Point: (x:3, y:5), Width: 10, Height: 20
+Test getWidth and getHeight
+Width: 10, Height: 20 
+
+Test perimeter
+60 
+
+Test transpose
+Point: (x:3, y:5), Width: 20, Height: 10 
+
+Test diagonal
+22.360679774997898 
+
+Test encloses, point:(x:4, y:25)
+False
+>>> 
+
+
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Fraction1:54/12 , Fraction2:42/24
+Test getNum for fraction1 54
+Test getNum for fraction2 42
+Test getDen for fraction1 12
+Test getDen for fraction2 24
+Test add 25/4
+Test __add__ 25/4
+Test simplify 9/2 7/4
+>>> 

@@ -1,0 +1,31 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Find the city who meet the population requirment, press Enter to continue or press any other keys to quit
+Please type the maxium population1000
+Please type the minum population5
+The population between 5 and 1000 is[('South_Hill', 961), ('The_Valley', 595), ('Flying_Fish_Cove', 700), ('Bantam', 503), ('West_Island', 167), ('Yaren', 559), ('Alofi', 682), ('Kingston', 800), ('Adamstown', 42), ('Fakaofo', 300), ('Citt¨¤_del_Vaticano', 455)] 
+
+Find the city who meet the population requirment, press Enter to continue or press any other keys to quit
+Please type the maxium population6421
+Please type the minum population4682
+The population between 4682 and 6421 is[('Tafuna', 5200), ('Bridgetown', 6070), ('Bikenibeu', 5055), ('Schaan', 5346), ('Vaduz', 5043), ('Saint-Pierre', 5808), ('Serravalle', 4802), ('Cockburn_Town', 4800)] 
+
+Find the city who meet the population requirment, press Enter to continue or press any other keys to quit5
+>>> ================================ RESTART ================================
+>>> 
+Find the city who meet the population requirment, press Enter to continue or press any other keys to quit
+Please type the maxium population6452
+Please type the minum population19563
+
+Bad Argument: Population should be int and the max cannot be smaller that min
+
+Find the city who meet the population requirment, press Enter to continue or press any other keys to quit
+Please type the maxium populationjjj
+Please type the minum population555
+
+Bad Argument: Population should be int and the max cannot be smaller that min
+
+Find the city who meet the population requirment, press Enter to continue or press any other keys to quit5
+>>> 

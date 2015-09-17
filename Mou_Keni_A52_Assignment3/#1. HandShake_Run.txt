@@ -1,0 +1,66 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!10
+There will be 45.0 hand shakes
+There will be 45 hand shakes
+True
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!60
+There will be 1770.0 hand shakes
+There will be 1770 hand shakes
+True
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!200
+There will be 19900.0 hand shakes
+There will be 19900 hand shakes
+True
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!2.5
+Traceback (most recent call last):
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#1. HandShake.py", line 73, in <module>
+    main()
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#1. HandShake.py", line 59, in main
+    peopleInt=int(people)
+ValueError: invalid literal for int() with base 10: '2.5'
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!hkjh
+Traceback (most recent call last):
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#1. HandShake.py", line 73, in <module>
+    main()
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#1. HandShake.py", line 59, in main
+    peopleInt=int(people)
+ValueError: invalid literal for int() with base 10: 'hkjh'
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!56564j
+Traceback (most recent call last):
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#1. HandShake.py", line 73, in <module>
+    main()
+  File "E:\Google Drive\CS110\Mou_Keni_A52_Assignment3\#1. HandShake.py", line 59, in main
+    peopleInt=int(people)
+ValueError: invalid literal for int() with base 10: '56564j'
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!0
+There will be 0.0 hand shakes
+There will be 0 hand shakes
+True
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!1
+There will be 0.0 hand shakes
+There will be 0 hand shakes
+True
+>>> ================================ RESTART ================================
+>>> 
+how many people are there in the classroom? Please input a integer number greater than 1!2
+There will be 1.0 hand shakes
+There will be 1 hand shakes
+True
+>>> 

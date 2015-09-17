@@ -1,0 +1,71 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+
+Enter the number of days for which salary is to be computed50
+Day 	 	 	 Pay 
+----------------------------------------------------------
+ 1 	                    1
+ 2 	                    2
+ 3 	                    4
+ 4 	                    8
+ 5 	                   16
+ 6 	                   32
+ 7 	                   64
+ 8 	                  128
+ 9 	                  256
+10 	                  512
+11 	                 1024
+12 	                 2048
+13 	                 4096
+14 	                 8192
+15 	                16384
+16 	                32768
+17 	                65536
+18 	               131072
+19 	               262144
+20 	               524288
+21 	              1048576
+22 	              2097152
+23 	              4194304
+24 	              8388608
+25 	             16777216
+26 	             33554432
+27 	             67108864
+28 	            134217728
+29 	            268435456
+30 	            536870912
+31 	           1073741824
+32 	           2147483648
+33 	           4294967296
+34 	           8589934592
+35 	          17179869184
+36 	          34359738368
+37 	          68719476736
+38 	         137438953472
+39 	         274877906944
+40 	         549755813888
+41 	        1099511627776
+42 	        2199023255552
+43 	        4398046511104
+44 	        8796093022208
+45 	       17592186044416
+46 	       35184372088832
+47 	       70368744177664
+48 	      140737488355328
+49 	      281474976710656
+50 	      562949953421312
+In 50 days a penny grows to $11258999068426.23
+>>> 
+>>> ================================ RESTART ================================
+>>> 
+
+Enter the number of days for which salary is to be computed.
+Traceback (most recent call last):
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Assignment5\#3. salary.py", line 88, in <module>
+    main()
+  File "E:\Skydrive\College course\CS110\Mou_Keni_A52_Assignment5\#3. salary.py", line 69, in main
+    day = int(dayStr)
+ValueError: invalid literal for int() with base 10: '.'
+>>> 

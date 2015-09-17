@@ -1,0 +1,54 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+This program encrypts or decrypts message using a Caesar cipher
+Input the first message to be processed in your list 
+(or press <ENTER> to quit)::~} 123 !
+Enter the next message in your list 
+(OR press <Enter> to finish: )The quick brown fox jumps over the lazy dog
+Enter the next message in your list 
+(OR press <Enter> to finish: )ABCXYZ abcxyz
+Enter the next message in your list 
+(OR press <Enter> to finish: )
+[':~} 123 !', 'The quick brown fox jumps over the lazy dog', 'ABCXYZ abcxyz']
+Do you want to encrypt or decrypt? 
+(Enter E for encrypt or D for decrypt):e
+Enter the rotation key to be used for encryption 96
+Your prosecced list is 
+ ['; ~!234!"', 'Uif!rvjdl!cspxo!gpy!kvnqt!pwfs!uif!mb{z!eph', 'BCDYZ[!bcdyz{'] 
+
+Input the first message to be processed in your list 
+(or press <ENTER> to quit):Uif!rvjdl!cspxo!gpy!kvnqt!pwfs!uif!mb{z!eph
+Enter the next message in your list 
+(OR press <Enter> to finish: ); ~!234!"
+Enter the next message in your list 
+(OR press <Enter> to finish: )BCDYZ[!bcdyz{
+Enter the next message in your list 
+(OR press <Enter> to finish: )
+['Uif!rvjdl!cspxo!gpy!kvnqt!pwfs!uif!mb{z!eph', '; ~!234!"', 'BCDYZ[!bcdyz{']
+Do you want to encrypt or decrypt? 
+(Enter E for encrypt or D for decrypt):d
+Enter the rotation key to be used for encryption 96
+Your prosecced list is 
+ ['The quick brown fox jumps over the lazy dog', ':~} 123 !', 'ABCXYZ abcxyz'] 
+
+Input the first message to be processed in your list 
+(or press <ENTER> to quit):The quick brown fox jumps over the lazy dog
+Enter the next message in your list 
+(OR press <Enter> to finish: ):~} 123 !
+Enter the next message in your list 
+(OR press <Enter> to finish: )ABCXYZ abcxyz
+Enter the next message in your list 
+(OR press <Enter> to finish: )
+['The quick brown fox jumps over the lazy dog', ':~} 123 !', 'ABCXYZ abcxyz']
+Do you want to encrypt or decrypt? 
+(Enter E for encrypt or D for decrypt):e
+Enter the rotation key to be used for encryption 480
+Your prosecced list is 
+ ['Ymj%vznhp%gwt|s%kt}%ozrux%t{jw%ymj%qf ~%itl', '?$#%678%&', 'FGH]^_%fgh}~ '] 
+
+Input the first message to be processed in your list 
+(or press <ENTER> to quit):
+You ended this program
+>>> 
